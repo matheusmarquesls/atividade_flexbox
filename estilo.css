@@ -66,3 +66,18 @@ h1 {
     display: flex;
     justify-content: space-evenly;
 }
+.container-exercicioB{
+    margin-bottom: 15px;
+    background-color: #d0d3d4;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.container-desafio{
+    margin-bottom: 15px;
+    background-color: #d0d3d4;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
